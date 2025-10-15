@@ -1,4 +1,4 @@
-# 🧠 SQL Query Filters Lab
+# 🧠 SQL Logic Operators Lab
 
 ### My Second Cyber Lab: Filtering with SQL  
 *Adapted from the Google Cybersecurity Professional Certificate*
