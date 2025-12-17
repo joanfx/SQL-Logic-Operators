@@ -1,7 +1,6 @@
-# 🧠 SQL Logic Operators Lab
+# SQL Logic Operators Lab
 
 ### My Second Cyber Lab: Filtering with SQL  
-*Adapted from the Google Cybersecurity Professional Certificate*
 
 ---
 
@@ -111,6 +110,4 @@ These skills are foundational for any analyst who needs to work with large datas
 
 ---
 
-**Author:** Joan  
-**Lab:** SQL Query Filters  
-**Course:** Google Cybersecurity Professional Certificate  
+**Author:** Joan 
