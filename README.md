@@ -94,7 +94,6 @@ WHERE NOT department = 'Information Technology';
 ---
 
 ## What I Learned
-This lab was a great introduction to the **power of SQL** for a security analyst.  
 I gained practical experience in running complex queries to retrieve targeted data from a database and learned how to apply **logical operators**:
 
 - `AND` for combining multiple true conditions  
