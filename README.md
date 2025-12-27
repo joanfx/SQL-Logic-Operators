@@ -4,7 +4,8 @@
 
 ---
 
-## This lab focuses on the application of Boolean logic to isolate high-risk events within a relational database. By leveraging AND, OR, and NOT operators, I successfully filtered for unauthorized login attempts, geofencing violations, and department-specific access discrepancies.
+## Scenario
+As a security analyst, I was tasked with investigating several red flags in our authentication logs. My objective was to filter through the `log_in_attempts` and `employees` tables to isolate indicators of compromise (IoC). This investigation focused on identifying persistent failed logins outside of business hours, suspicious international activity, and potential lateral movement by auditing department-level access.
 
 ## Task 1: Failed Logins After Business Hours
 **Goal:** Find all login attempts that were **unsuccessful** and occurred **after 6:00 PM**.  
@@ -99,8 +100,6 @@ I gained practical experience in running complex queries to retrieve targeted da
 - `AND` for combining multiple true conditions  
 - `OR` for retrieving data that matches at least one condition  
 - `NOT` for excluding specific data patterns  
-
-These skills are foundational for any analyst who needs to work with large datasets to **investigate incidents, detect anomalies, and support decision-making** in cybersecurity operations.
 
 ---
 
