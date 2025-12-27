@@ -4,8 +4,10 @@
 
 ---
 
-## Scenario
+## Scenario:
 As a security analyst, I was tasked with investigating several red flags in our authentication logs. My objective was to filter through the `log_in_attempts` and `employees` tables to isolate indicators of compromise (IoC). This investigation focused on identifying persistent failed logins outside of business hours, suspicious international activity, and potential lateral movement by auditing department-level access.
+
+---
 
 ## Task 1: Investigation of Post-Business Hour Brute-Force Attempts
 **Goal:** Find all login attempts that were **unsuccessful** and occurred **after 6:00 PM**.  
