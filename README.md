@@ -4,12 +4,7 @@
 
 ---
 
-## 🔍 Scenario
-As a **security analyst**, I often need to investigate potential security issues and update computers. This involves retrieving specific information from a database by **filtering for multiple conditions**.
-
-For this lab, my team needed data on **employees, their machines, and departments** to conduct a security investigation. This required using **logical operators** to filter the database efficiently.
-
----
+## This lab focuses on the application of Boolean logic to isolate high-risk events within a relational database. By leveraging AND, OR, and NOT operators, I successfully filtered for unauthorized login attempts, geofencing violations, and department-specific access discrepancies.
 
 ## Task 1: Failed Logins After Business Hours
 **Goal:** Find all login attempts that were **unsuccessful** and occurred **after 6:00 PM**.  
