@@ -97,7 +97,7 @@ WHERE NOT department = 'Information Technology';
 ---
 
 ## What I Learned
-- Incident Triage: Learned to rapidly isolate high-priority security events using complex WHERE clause predicates.
+- Incident Triage: Learned to rapidly isolate high-priority security events using complex `WHERE` clause predicates.
 
 - Boolean Investigative Logic: Applied `AND`, `OR`, and `NOT` operators to refine large datasets and reduce "noise" during forensics.
 
