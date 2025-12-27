@@ -1,6 +1,6 @@
-# SQL Logic Operators Lab
+# SQL Security Filtering & Incident Investigation
 
-### My Second Cyber Lab: Filtering with SQL  
+### Technical Objective: Security Data Mining & Investigative Querying
 
 ---
 
@@ -111,3 +111,5 @@ These skills are foundational for any analyst who needs to work with large datas
 ---
 
 **Author:** Joan 
+
+---
